@@ -6,5 +6,5 @@
 
 ### 第一部分 作用域和闭包
 
-1. [编译原理](http://roojay.com/baidu-web/html/xiaowei_task_1.html)
-2. [作用域](./Notes/作用域以及LHS和RHS.md)
+1. [编译原理](编译原理.md)
+2. [作用域](作用域以及LHS和RHS.md)
