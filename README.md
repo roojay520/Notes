@@ -1,2 +1,1 @@
-# Notes
-Some notes from the study.
+[Some notes](https://github.com/roojay520/Notes/issues)
